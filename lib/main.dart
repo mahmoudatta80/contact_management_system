@@ -1,15 +1,9 @@
 import 'package:flutter/material.dart';
 
 
-helloo
-ssssssssssssss
-last commit
 void main() {
   runApp(const MyApp());
-  hellllll
-    kkkkkkkkkkkkkkkkkkkkk
 }
-mmmmmmmmmmmmmmmmm
 
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
